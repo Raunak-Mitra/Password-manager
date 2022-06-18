@@ -108,7 +108,7 @@ website_input.focus()
 email_label = Label(text="Email/Username")
 email_label.grid(column=0,row=2)
 email_input = Entry(width = 50,)
-email_input.insert(0, "mitraraunak388@gmail.com")
+email_input.insert(0, "Your email")
 email_input.grid(column = 1,row =2,columnspan=2)
 
 pwd_label = Label(text="Password")
